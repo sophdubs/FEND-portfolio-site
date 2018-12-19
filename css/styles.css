@@ -1,0 +1,62 @@
+.main-image{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.large-image{
+    width: 100%;
+}
+
+.small-image{
+    width: 100%;
+}
+
+.responsive-image{
+    max-width:100%;
+    height:auto;
+}
+
+.details {
+    position: absolute ;
+    top:25%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.logo-image{
+    position: absolute;
+    left:2%;
+    top:0.5%;
+    max-width:45px;
+}
+
+.small-images-container {
+    margin-top: 15px;
+}
+
+.grey-text{
+    text-align: center;
+    color: grey;
+}
+
+.recent-projects{
+    margin-top: 15px;
+}
+
+.subtitle{
+    font-size: 25px;
+}
+
+.title{
+    font-size: 5.9vw;
+}
+
+.title2{
+    font-size: 3.5vw;
+    text-align: center;
+}
+
+
+
